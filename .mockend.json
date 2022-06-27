@@ -1,3 +1,3 @@
 {
-  {"name": "Ramesh", "mark": 88}, {"name":"Rahul", "mark":67}, {"name":"Sita", "mark":78}
+  [{"name": "Ramesh", "mark": 88}, {"name":"Rahul", "mark":67}, {"name":"Sita", "mark":78}]
 }
